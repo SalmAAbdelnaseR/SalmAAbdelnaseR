@@ -11,7 +11,6 @@
 
 ### 🌐 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/salma-abdelnaser)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black)](https://leetcode.com/u/Salma_Abdelnaser/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=hackerrank&logoColor=white)](https://www.hackerrank.com/profile/salmaabdelnaser2)
 
