@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 
-### 🧑‍💻 About Me
+### 💻 About Me
 
 - 🌱 I’m an ITI student, currently learning **Spring** and **Spring Boot**
 - 📫 How to reach me: **salmaabdelnaser999@gmail.com**
